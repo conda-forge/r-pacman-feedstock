@@ -1,11 +1,11 @@
-About r-pacman
-==============
+About r-pacman-feedstock
+========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-pacman-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/trinker/pacman
 
 Package license: GPL-2.0-only
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-pacman-feedstock/blob/main/LICENSE.txt)
 
 Summary: Tools to more conveniently perform tasks associated with add-on packages. pacman conveniently wraps library and package related functions and names them in an intuitive and consistent fashion.  It seeks to combine functionality from lower level functions which can speed up workflow.
 
